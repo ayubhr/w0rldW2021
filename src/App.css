@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+
 }
 
 .App-logo {
@@ -35,4 +42,34 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.flag-div{
+
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+  }
+
+.flag-icon {
+
+    height: 38px;
+    width: 41px;
+    border-radius: 40px;
+    cursor: pointer;
+    margin-left: 5px;
+
+}
+
+.logo {
+
+    position: relative;
+    bottom: 100px;    
+    width: 113px;
+    filter: drop-shadow(1px 0px 12px #092f86);
+}
+
+.text-Left{
+
+  text-align: left;
 }

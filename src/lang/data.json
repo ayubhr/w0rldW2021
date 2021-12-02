@@ -1,0 +1,26 @@
+[
+ {
+   "language" : "en",
+   "country" : "United States",
+   "id" : 1,
+   "content" : {
+      
+      "title" : "National Sea-Surveying Company",
+      "part1" : "Defnition",
+      "part2" : "The SNSM is an association whose main mission is to help human life in danger, on a voluntary basis and free of charge, at sea and on the coasts.Its funding is essentially based on the generosity of the public and private partners."
+
+   }
+ },
+ {
+   "language" : "fr",
+   "country" : "France",
+   "id" : 2,
+   "content" : {
+      
+      "title" : "Société nationale de sauvetage en mer",
+      "part1" : "Définition",
+      "part2" : "La SNSM est une association dont la principale mission est de secourir bénévolement et gratuitement les vies humaines en danger, en mer et sur les côtes. Son financement repose essentiellement sur la générosité du public et de partenaires privés."
+
+   }
+ }
+]
