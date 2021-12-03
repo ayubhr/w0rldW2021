@@ -1,8 +1,8 @@
 # World Wide Défis
-## Made by EpiCodifyCrew
+### Made by EpiCodifyCrew
 
-## Application realisé avec React Js
-## Features
+#### *Application realisé avec React Js
+## *Features
 
 - Switcher la langue depuis l’interface
 - les langues : FR , US 
@@ -20,6 +20,10 @@
 ## Comment notre application fonctionne
     
     Ona utiliser une fichier JSON pour switcher la langue 
+
+## Live Demo:
+
+https://pensive-banach-f4fdc4.netlify.app/
 
 
 **Merci**
