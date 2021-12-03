@@ -22,6 +22,6 @@
     Ona utiliser une fichier JSON pour switcher la langue 
 
 
-**Free Software, Hell Yeah!**
+**Merci**
 
  
